@@ -1,0 +1,26 @@
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\NUnit.VisualStudio.TestAdapter.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\Mono.Cecil.Mdb.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\Mono.Cecil.Pdb.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\Mono.Cecil.Rocks.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\nunit.core.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\nunit.core.interfaces.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\nunit.util.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\automation test.exe
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\automation test.deps.json
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\automation test.runtimeconfig.json
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\automation test.runtimeconfig.dev.json
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\automation test.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\automation test.pdb
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\auto\automation test\automation test\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\auto\automation test\automation test\obj\Debug\netcoreapp3.1\automation test.AssemblyInfoInputs.cache
+D:\auto\automation test\automation test\obj\Debug\netcoreapp3.1\automation test.AssemblyInfo.cs
+D:\auto\automation test\automation test\obj\Debug\netcoreapp3.1\automation test.csproj.CoreCompileInputs.cache
+D:\auto\automation test\automation test\obj\Debug\netcoreapp3.1\automation test.csproj.CopyComplete
+D:\auto\automation test\automation test\obj\Debug\netcoreapp3.1\automation test.dll
+D:\auto\automation test\automation test\obj\Debug\netcoreapp3.1\automation test.pdb
+D:\auto\automation test\automation test\obj\Debug\netcoreapp3.1\automation test.genruntimeconfig.cache
+D:\auto\automation test\automation test\obj\Debug\netcoreapp3.1\automation test.csprojAssemblyReference.cache
