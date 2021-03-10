@@ -11,31 +11,16 @@ namespace ConsoleApp2
 {
     class Program
     {
-        IWebDriver driver;
+        
         static void Main(string[] args)
         {
-            string url = "http://testing.todorvachev.com/selectors/css-path/";
-            string cssPath = "#search-2 > form > label > input";
-            string xPath = "//*[@id=\"search-2\"]/form/label/input";
-
-            IWebDriver driver = new ChromeDriver();
-
-            driver.Navigate().GoToUrl(url);
-
-            IWebElement cssPathElement = driver.FindElement(By.CssSelector(cssPath));
-            IWebElement xPathElement = driver.FindElement(By.XPath(xPath));
-
-            if (cssPathElement.Displayed)
-            {
-                Console.WriteLine("I can see the CSS path element");
-            }
-            else
-            {
-                Console.WriteLine("I can't see it");
-            }
-
-
-
+            //Class1 Click_on_image = new Click_on_image();
+            //class1.Testing_1();
+            ////Testing();
+            ////log.Debug();
+            //Console.ReadLine();
         }
+
+ 
     }
 }

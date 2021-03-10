@@ -7,6 +7,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+
 namespace UnitTestProjec
 {
     [TestClass]
@@ -17,5 +19,11 @@ namespace UnitTestProjec
         {
 
         }
+        static void Main(string[] args)
+        {
+            //Testing();
+            //Console.ReadLine();
+        }
+
     }
 }

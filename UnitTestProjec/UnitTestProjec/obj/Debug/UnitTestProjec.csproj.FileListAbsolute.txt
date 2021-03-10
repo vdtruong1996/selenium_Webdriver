@@ -34,3 +34,5 @@ D:\auto\UnitTestProjec\UnitTestProjec\bin\Debug\WebDriver.Support.xml
 D:\auto\UnitTestProjec\UnitTestProjec\obj\Debug\UnitTestProjec.csproj.CopyComplete
 D:\auto\UnitTestProjec\UnitTestProjec\obj\Debug\UnitTestProjec.dll
 D:\auto\UnitTestProjec\UnitTestProjec\obj\Debug\UnitTestProjec.pdb
+D:\auto\UnitTestProjec\UnitTestProjec\bin\Debug\DocumentFormat.OpenXml.dll
+D:\auto\UnitTestProjec\UnitTestProjec\bin\Debug\DocumentFormat.OpenXml.xml
