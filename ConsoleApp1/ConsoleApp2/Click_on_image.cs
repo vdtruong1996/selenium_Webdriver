@@ -13,7 +13,8 @@ namespace ConsoleApp2
 {
     class Click_on_image
     {
-        internal static void Testing_1()
+
+        public void Testing_1()
         {
             log4net.Config.BasicConfigurator.Configure();
             log4net.ILog log = log4net.LogManager.GetLogger(typeof(Program));
@@ -26,19 +27,21 @@ namespace ConsoleApp2
             {
                 log.Error("Error Message: " + ex.Message.ToString(), ex);
             }
+
         }
+
         IWebDriver driver;
 
         [Test]
         public void BT2()
         {
+
             driver = new ChromeDriver("D:\\auto\\chromedriver");
             Thread.Sleep(2000);
 
             driver.Url = "https://www.guru99.com/";
             Thread.Sleep(2000);
             //driver.Manage().Window.Maximize();
-            //ILogs = driver.Manage().Logs.GetLog(LogType.Browser);
 
             //click on the "Guru99" logo on the upper left portion
             driver.FindElement(By.CssSelector("#logo-7552-particle > a > img")).Click();
@@ -53,6 +56,9 @@ namespace ConsoleApp2
             {
                 Console.WriteLine("We are not in Guru99's homepage");
             }
+
+            Click_on_image click_On_Image = new Click_on_image();
+            click_On_Image.Testing_1();
 
             driver.Close();
 

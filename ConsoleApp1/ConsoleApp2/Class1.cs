@@ -30,11 +30,14 @@ namespace ConsoleApp2
             IWebElement signUpButton = m_driver.FindElement(By.XPath(".//*[@id='philadelphia-field-submit']"));
             signUpButton.Click();
 
+            Click_on_image click_On_Image = new Click_on_image();
+            click_On_Image.Testing_1();
+
             //driver.navigate().back();
             //m_driver.Navigate().Refresh();
 
             //m_driver.Close();
-            
+
 
 
 

@@ -34,6 +34,9 @@ namespace ConsoleApp2
 
             n_driver.Close();
 
+            Click_on_image click_On_Image = new Click_on_image();
+            click_On_Image.Testing_1();
+
 
             //if (signUpButton != null)
             //{
