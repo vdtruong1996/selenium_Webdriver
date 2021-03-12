@@ -22,6 +22,7 @@ namespace ConsoleApp3
             Program program = new Program();
             program.Testing_2();
             Console.ReadLine();
+ 
         }
 
         public void Testing_2()

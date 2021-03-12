@@ -56,12 +56,19 @@ namespace ConsoleApp3
                 // Selecting all the elements one by one
                 oSelection.SelectByIndex(i);
  
-                Thread.Sleep(500);
+                Thread.Sleep(5);
             }
 
             // Step 7: Deselect all
-            oSelection.DeselectAll();
+            //oSelection.DeselectAll();
+            Thread.Sleep(2000);
 
+            
+
+            Console.WriteLine("cssDeme");
+
+            Program program = new Program();
+            program.Testing_2();
             // Kill the browser
             driver.Close();
         }

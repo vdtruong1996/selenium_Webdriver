@@ -32,7 +32,7 @@ namespace ConsoleApp3
             IWebElement Drop = m_driver.FindElement(By.Name("country"));
             SelectElement oSelection = new SelectElement(Drop);
 
-            oSelection.SelectByText("ANDORRA");
+            oSelection.SelectByText("ALGERIA");
 
             // Using sleep command so that changes can be notice
             Thread.Sleep(2000);
@@ -55,9 +55,10 @@ namespace ConsoleApp3
                 Console.WriteLine("Value of the Select item is : " + sValue);
 
                 // Putting a check on each option that if any of the option is equal to 'Africa" then select it 
-                if (sValue.Equals("ARUBA"))
+                if (sValue.Equals("AUSTRALIA"))
                 {
                     oSelection.SelectByIndex(i);
+                    Thread.Sleep(2000);
                     break;
                 }
 

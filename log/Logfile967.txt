@@ -1,0 +1,15 @@
+----------------------------------------------------------            -----------------------------------------------------------------            
+2021-03-12 16:52:08,995 [NonParallelWorker] 
+2021-03-12 16:52:08,995 ERROR 
+2021-03-12 16:52:08,995 ConsoleApp3.Program -             
+2021-03-12 16:52:08,995  
+ Error Message: Object reference not set to an instance of an object. 
+  
+2021-03-12 16:52:08,995 NOT AVAILABLE            
+2021-03-12 16:52:08,995 ConsoleApp3.LinkTex_and_PartialLink  
+2021-03-12 16:52:08,995 NOT AVAILABLE  
+2021-03-12 16:52:08,995 NOT AVAILABLE             
+2021-03-12 16:52:08,995 D:\auto\ConsoleApp1\ConsoleApp3\LinkTex_and_PartialLink.cs  
+ 41 
+ {log4net:Identity=, log4net:UserName=VNRESOURCE\truong.vo, log4net:HostName=CPU08-TruongVo} System.NullReferenceException: Object reference not set to an instance of an object.
+   at ConsoleApp3.LinkTex_and_PartialLink.linktext() in D:\auto\ConsoleApp1\ConsoleApp3\LinkTex_and_PartialLink.cs:line 36

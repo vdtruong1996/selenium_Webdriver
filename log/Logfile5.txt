@@ -244,3 +244,57 @@ Parameter name: length
 Parameter name: length
    at System.String.Substring(Int32 startIndex, Int32 length)
    at ConsoleApp3.Program.Testing_2() in D:\auto\ConsoleApp1\ConsoleApp3\Program.cs:line 34
+----------------------------------------------------------            -----------------------------------------------------------------            
+2021-03-12 08:55:57,332 [NonParallelWorker] 
+2021-03-12 08:55:57,332 ERROR 
+2021-03-12 08:55:57,332 ConsoleApp3.Program -             
+2021-03-12 08:55:57,332  
+ Error Message: Index and length must refer to a location within the string.
+Parameter name: length 
+  
+2021-03-12 08:55:57,332 NOT AVAILABLE            
+2021-03-12 08:55:57,332 ConsoleApp3.Program  
+2021-03-12 08:55:57,332 NOT AVAILABLE  
+2021-03-12 08:55:57,332 NOT AVAILABLE             
+2021-03-12 08:55:57,332 D:\auto\ConsoleApp1\ConsoleApp3\Program.cs  
+ 38 
+ {log4net:Identity=, log4net:UserName=VNRESOURCE\truong.vo, log4net:HostName=CPU08-TruongVo} System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ConsoleApp3.Program.Testing_2() in D:\auto\ConsoleApp1\ConsoleApp3\Program.cs:line 34
+----------------------------------------------------------            -----------------------------------------------------------------            
+2021-03-12 08:56:45,263 [NonParallelWorker] 
+2021-03-12 08:56:45,263 ERROR 
+2021-03-12 08:56:45,263 ConsoleApp3.Program -             
+2021-03-12 08:56:45,263  
+ Error Message: Index and length must refer to a location within the string.
+Parameter name: length 
+  
+2021-03-12 08:56:45,263 NOT AVAILABLE            
+2021-03-12 08:56:45,263 ConsoleApp3.Program  
+2021-03-12 08:56:45,263 NOT AVAILABLE  
+2021-03-12 08:56:45,263 NOT AVAILABLE             
+2021-03-12 08:56:45,263 D:\auto\ConsoleApp1\ConsoleApp3\Program.cs  
+ 38 
+ {log4net:Identity=, log4net:UserName=VNRESOURCE\truong.vo, log4net:HostName=CPU08-TruongVo} System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ConsoleApp3.Program.Testing_2() in D:\auto\ConsoleApp1\ConsoleApp3\Program.cs:line 34
+----------------------------------------------------------            -----------------------------------------------------------------            
+2021-03-12 09:55:43,977 [NonParallelWorker] 
+2021-03-12 09:55:43,977 ERROR 
+2021-03-12 09:55:43,977 ConsoleApp3.Program -             
+2021-03-12 09:55:43,977  
+ Error Message: Index and length must refer to a location within the string.
+Parameter name: length 
+  
+2021-03-12 09:55:43,977 NOT AVAILABLE            
+2021-03-12 09:55:43,977 ConsoleApp3.Program  
+2021-03-12 09:55:43,977 NOT AVAILABLE  
+2021-03-12 09:55:43,977 NOT AVAILABLE             
+2021-03-12 09:55:43,977 D:\auto\ConsoleApp1\ConsoleApp3\Program.cs  
+ 38 
+ {log4net:Identity=, log4net:UserName=VNRESOURCE\truong.vo, log4net:HostName=CPU08-TruongVo} System.ArgumentOutOfRangeException: Index and length must refer to a location within the string.
+Parameter name: length
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ConsoleApp3.Program.Testing_2() in D:\auto\ConsoleApp1\ConsoleApp3\Program.cs:line 34

@@ -71,6 +71,8 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Dropdowbox.cs" />
     <Compile Include="Dropdownbox_2.cs" />
+    <Compile Include="Handle Dynamic WebTables.cs" />
+    <Compile Include="LinkTex_and_PartialLink.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

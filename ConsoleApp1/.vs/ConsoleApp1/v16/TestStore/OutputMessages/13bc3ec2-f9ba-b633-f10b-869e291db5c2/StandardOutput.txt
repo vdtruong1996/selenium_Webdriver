@@ -1,0 +1,264 @@
+Value of the Item is :ALBANIA
+Value of the Item is :ALGERIA
+Value of the Item is :AMERICAN SAMOA
+Value of the Item is :ANDORRA
+Value of the Item is :ANGOLA
+Value of the Item is :ANGUILLA
+Value of the Item is :ANTARCTICA
+Value of the Item is :ANTIGUA AND BARBUDA
+Value of the Item is :ARGENTINA
+Value of the Item is :ARMENIA
+Value of the Item is :ARUBA
+Value of the Item is :ASHMORE AND CARTIER ISLANDS
+Value of the Item is :AUSTRALIA
+Value of the Item is :AUSTRIA
+Value of the Item is :AZERBAIJAN
+Value of the Item is :BAHAMAS
+Value of the Item is :BAHRAIN
+Value of the Item is :BAKER ISLAND
+Value of the Item is :BANGLADESH
+Value of the Item is :BARBADOS
+Value of the Item is :BASSA DE INDIA
+Value of the Item is :BELARUS
+Value of the Item is :BELGIUM
+Value of the Item is :BELIZE
+Value of the Item is :BENIN
+Value of the Item is :BERMUDA
+Value of the Item is :BHUTAN
+Value of the Item is :BOLIVIA
+Value of the Item is :BOSNIA AND HERZEGOVINA
+Value of the Item is :BOTSWANA
+Value of the Item is :BOUVET ISLAND
+Value of the Item is :BRAZIL
+Value of the Item is :BRITISH INDIAN OCEAN TERRITORY
+Value of the Item is :BRITISH VIRGIN ISLANDS
+Value of the Item is :BRUNEI
+Value of the Item is :BULGARIA
+Value of the Item is :BURKINA FASO
+Value of the Item is :BURMA
+Value of the Item is :BURUNDI
+Value of the Item is :CAMBODIA
+Value of the Item is :CAMEROON
+Value of the Item is :CANADA
+Value of the Item is :CAPE VERDE
+Value of the Item is :CAYMAN ISLANDS
+Value of the Item is :CENTRAL AFRICAN REPUBLIC
+Value of the Item is :CHAD
+Value of the Item is :CHILE
+Value of the Item is :CHINA
+Value of the Item is :CHRISTMAS ISLAND
+Value of the Item is :CLIPPERTON ISLAND
+Value of the Item is :COCOS (KEELING) ISLANDS
+Value of the Item is :COLOMBIA
+Value of the Item is :COMOROS
+Value of the Item is :CONGO
+Value of the Item is :COOK ISLANDS
+Value of the Item is :CORAL SEA ISLANDS
+Value of the Item is :COSTA RICA
+Value of the Item is :COTE D'IVOIRE
+Value of the Item is :CROATIA
+Value of the Item is :CUBA
+Value of the Item is :CYPRUS
+Value of the Item is :CZECH REPUBLIC
+Value of the Item is :DENMARK
+Value of the Item is :DJIBOUTI
+Value of the Item is :DOMINICA
+Value of the Item is :DOMINICAN REPUBLIC
+Value of the Item is :ECUADOR
+Value of the Item is :EGYPT
+Value of the Item is :EL SALVADOR
+Value of the Item is :EQUATORIAL GUINEA
+Value of the Item is :ERITREA
+Value of the Item is :ESTONIA
+Value of the Item is :ETHIOPIA
+Value of the Item is :EUROPA ISLAND
+Value of the Item is :FALKLAND ISLANDS
+Value of the Item is :FAROE ISLANDS
+Value of the Item is :FIJI
+Value of the Item is :FINLAND
+Value of the Item is :FRANCE
+Value of the Item is :FRENCH GUIANA
+Value of the Item is :FRENCH POLYNESIA
+Value of the Item is :FRENCH SOUTHERN AND ANTARCTIC LANDS
+Value of the Item is :GABON
+Value of the Item is :GAMBIA, THE
+Value of the Item is :GAZA STRIP
+Value of the Item is :GEORGIA
+Value of the Item is :GERMANY
+Value of the Item is :GHANA
+Value of the Item is :GIBRALTAR
+Value of the Item is :GLORIOSO ISLANDS
+Value of the Item is :GREECE
+Value of the Item is :GREENLAND
+Value of the Item is :GRENADA
+Value of the Item is :GUADELOUPE
+Value of the Item is :GUAM
+Value of the Item is :GUATEMALA
+Value of the Item is :GUERNSEY
+Value of the Item is :GUINEA
+Value of the Item is :GUINEA-BISSAU
+Value of the Item is :GUYANA
+Value of the Item is :HAITI
+Value of the Item is :HEARD ISLAND AND MCDONALD ISLANDS
+Value of the Item is :HONDURAS
+Value of the Item is :HONG KONG
+Value of the Item is :HOWLAND ISLAND
+Value of the Item is :HUNGARY
+Value of the Item is :ICELAND
+Value of the Item is :INDIA
+Value of the Item is :INDONESIA
+Value of the Item is :IRAN
+Value of the Item is :IRAQ
+Value of the Item is :IRELAND
+Value of the Item is :ISRAEL
+Value of the Item is :ITALY
+Value of the Item is :JAMAICA
+Value of the Item is :JAN MAYEN
+Value of the Item is :JAPAN
+Value of the Item is :JARVIS ISLAND
+Value of the Item is :JERSEY
+Value of the Item is :JOHNSTON ATOLL
+Value of the Item is :JORDAN
+Value of the Item is :JUAN DE NOVA ISLAND
+Value of the Item is :KAZAKHSTAN
+Value of the Item is :KENYA
+Value of the Item is :KINGMAN REEF
+Value of the Item is :KIRIBATI
+Value of the Item is :KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+Value of the Item is :KOREA, REPUBLIC OF
+Value of the Item is :KUWAIT
+Value of the Item is :KYRGYZSTAN
+Value of the Item is :LAOS
+Value of the Item is :LATVIA
+Value of the Item is :LEBANON
+Value of the Item is :LESOTHO
+Value of the Item is :LIBERIA
+Value of the Item is :LIBYA
+Value of the Item is :LIECHTENSTEIN
+Value of the Item is :LITHUANIA
+Value of the Item is :LUXEMBOURG
+Value of the Item is :MACAU
+Value of the Item is :MACEDONIA, FORMER REPUBLIC OF
+Value of the Item is :MADAGASCAR
+Value of the Item is :MALAWI
+Value of the Item is :MALAYSIA
+Value of the Item is :MALDIVES
+Value of the Item is :MALI
+Value of the Item is :MALTA
+Value of the Item is :MAN, ISLE OF
+Value of the Item is :MARSHALL ISLANDS
+Value of the Item is :MARTINIQUE
+Value of the Item is :MAURITANIA
+Value of the Item is :MAURITIUS
+Value of the Item is :MAYOTTE
+Value of the Item is :MEXICO
+Value of the Item is :MICRONESIA
+Value of the Item is :MIDWAY ISLANDS
+Value of the Item is :MOLDOVA
+Value of the Item is :MONACO
+Value of the Item is :MONGOLIA
+Value of the Item is :MONTENEGRO
+Value of the Item is :MONTSERRAT
+Value of the Item is :MOROCCO
+Value of the Item is :MOZAMBIQUE
+Value of the Item is :NAMIBIA
+Value of the Item is :NAURU
+Value of the Item is :NAVASSA ISLAND
+Value of the Item is :NEPAL
+Value of the Item is :NETHERLANDS
+Value of the Item is :NETHERLANDS ANTILLES
+Value of the Item is :NEW CALEDONIA
+Value of the Item is :NEW ZEALAND
+Value of the Item is :NICARAGUA
+Value of the Item is :NIGER
+Value of the Item is :NIGERIA
+Value of the Item is :NIUE
+Value of the Item is :NO MANS LAND
+Value of the Item is :NORFOLK ISLAND
+Value of the Item is :NORTHERN MARIANA ISLANDS
+Value of the Item is :NORWAY
+Value of the Item is :OCEANS
+Value of the Item is :OMAN
+Value of the Item is :PAKISTAN
+Value of the Item is :PALMYRA ATOLL
+Value of the Item is :PANAMA
+Value of the Item is :PAPUA NEW GUINEA
+Value of the Item is :PARACEL ISLANDS
+Value of the Item is :PARAGUAY
+Value of the Item is :PERU
+Value of the Item is :PHILIPPINES
+Value of the Item is :PITCAIRN ISLANDS
+Value of the Item is :POLAND
+Value of the Item is :PORTUGAL
+Value of the Item is :PUERTO RICO
+Value of the Item is :QATAR
+Value of the Item is :REUNION
+Value of the Item is :ROMANIA
+Value of the Item is :RUSSIA
+Value of the Item is :RWANDA
+Value of the Item is :SAN MARINO
+Value of the Item is :SAO TOME AND PRINCIPE
+Value of the Item is :SAUDI ARABIA
+Value of the Item is :SENEGAL
+Value of the Item is :SERBIA
+Value of the Item is :SEYCHELLES
+Value of the Item is :SIERRA LEONE
+Value of the Item is :SINGAPORE
+Value of the Item is :SLOVAKIA
+Value of the Item is :SLOVENIA
+Value of the Item is :SOLOMON ISLANDS
+Value of the Item is :SOMALIA
+Value of the Item is :SOUTH AFRICA
+Value of the Item is :SOVIET UNION
+Value of the Item is :SPAIN
+Value of the Item is :SPRATLY ISLANDS
+Value of the Item is :SRI LANKA
+Value of the Item is :ST. HELENA
+Value of the Item is :ST. KITTS AND NEVIS
+Value of the Item is :ST. LUCIA
+Value of the Item is :ST. PIERRE AND MIQUELON
+Value of the Item is :ST. VINCENT AND THE GRENADINES
+Value of the Item is :SUDAN
+Value of the Item is :SURINAME
+Value of the Item is :SVALBARD
+Value of the Item is :SWAZILAND
+Value of the Item is :SWEDEN
+Value of the Item is :SWITZERLAND
+Value of the Item is :SYRIA
+Value of the Item is :TAIWAN
+Value of the Item is :TAJIKISTAN
+Value of the Item is :TANZANIA, UNITED REPUBLIC OF
+Value of the Item is :THAILAND
+Value of the Item is :TOGO
+Value of the Item is :TOKELAU
+Value of the Item is :TONGA
+Value of the Item is :TRINIDAD AND TOBAGO
+Value of the Item is :TROMELIN ISLAND
+Value of the Item is :TUNISIA
+Value of the Item is :TURKEY
+Value of the Item is :TURKMENISTAN
+Value of the Item is :TURKS AND CAICOS ISLANDS
+Value of the Item is :TUVALU
+Value of the Item is :UGANDA
+Value of the Item is :UKRAINE
+Value of the Item is :UNDERSEA FEATURES
+Value of the Item is :UNITED ARAB EMIRATES
+Value of the Item is :UNITED KINGDOM
+Value of the Item is :UNITED STATES
+Value of the Item is :URUGUAY
+Value of the Item is :UZBEKISTAN
+Value of the Item is :VANUATU
+Value of the Item is :VATICAN CITY
+Value of the Item is :VENEZUELA
+Value of the Item is :VIETNAM
+Value of the Item is :VIRGIN ISLANDS
+Value of the Item is :WAKE ISLAND
+Value of the Item is :WALLIS AND FUTUNA
+Value of the Item is :WEST BANK
+Value of the Item is :WESTERN SAHARA
+Value of the Item is :WESTERN SAMOA
+Value of the Item is :YEMEN
+Value of the Item is :YUGOSLAVIA
+Value of the Item is :ZAIRE
+Value of the Item is :ZAMBIA
+Value of the Item is :ZIMBABWE
