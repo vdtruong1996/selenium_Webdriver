@@ -73,8 +73,10 @@
     <Compile Include="Dropdownbox_2.cs" />
     <Compile Include="Handle Dynamic WebTables.cs" />
     <Compile Include="LinkTex_and_PartialLink.cs" />
+    <Compile Include="Mouse_Click_Keyboard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XPath_Example.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
