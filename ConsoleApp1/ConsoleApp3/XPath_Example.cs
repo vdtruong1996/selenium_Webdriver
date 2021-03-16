@@ -21,6 +21,8 @@ namespace ConsoleApp3
         {
             driver = new ChromeDriver("D:\\auto\\chromedriver");
             //driver.Manage().Window.Maximize();
+            driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(20);
+            driver.Manage().Timeouts().AsynchronousJavaScript = TimeSpan.FromSeconds(20);
 
             // WebPage which contains a WebTable
             driver.Navigate().GoToUrl("https://demoqa.com/text-box");
@@ -46,17 +48,21 @@ namespace ConsoleApp3
 
             //using AND operator to locate full name
             driver.FindElement(By.XPath("//input[@placeholder ='Full Name' and @type = 'text']")).SendKeys("AND operator");
+            Thread.Sleep(2000);
 
             //using OR operator to locate full name
             driver.FindElement(By.XPath("//input[@placeholder ='Full Name' or @type = 'text']")).SendKeys("OR operator");
+            Thread.Sleep(2000);
 
             //using ancestor to locate form tag
             Boolean bol = driver.FindElement(By.XPath("//label[text()='Full Name']/ancestor::form")).Displayed;
+            Thread.Sleep(2000);
             //System.out.println("Form is displayed : " + bol);
             Console.WriteLine("Form is displayed : " + bol);
 
             //using child to locate full name textbox from form
             String label = driver.FindElement(By.XPath("//form[@id='userForm']/child::div[1]//label")).Text;
+            Thread.Sleep(2000);
             //System.out.println("The label text is : " + label);
             Console.WriteLine("The label text is : " + label);
 
@@ -64,9 +70,11 @@ namespace ConsoleApp3
             //using decendent axis to locate yes radio
             driver.Navigate().GoToUrl("https://www.demoqa.com/radio-button");
             driver.FindElement(By.XPath("//div[@class= 'custom-control custom-radio custom-control-inline']/descendant::input/following-sibling::label")).Click();
+            Thread.Sleep(2000);
 
             //using parent axis to locate yes radio
             Boolean bo = driver.FindElement(By.XPath("//input[@id='yesRadio']/parent::div")).Selected;
+            Thread.Sleep(2000);
             //System.out.println("The Yes radio is selected : " + bo);
             Console.WriteLine("The Yes radio is selected : " + bo);
 
@@ -74,12 +82,15 @@ namespace ConsoleApp3
             //using following axis to locate current address
             driver.Navigate().GoToUrl("https://demoqa.com/text-box");
             driver.FindElement(By.XPath("//input[@id=\"userName\"]/following::textarea")).SendKeys("Text Area locate following");
+            Thread.Sleep(2000);
 
             //using following-sibling to locate email 
             driver.FindElement(By.XPath("(//div[@class='col-md-3 col-sm-12']/following-sibling::div/input)[2]")).SendKeys("abc@xyz.com");
+            Thread.Sleep(2000);
 
             //using preceding-axis to locate full name
             String preceding = driver.FindElement(By.XPath("//input[@id='userName']/preceding::label")).Text;
+            Thread.Sleep(2000);
             //System.out.println("The value of preceding : " + preceding);
             Console.WriteLine("The value of preceding : " + preceding);
 
