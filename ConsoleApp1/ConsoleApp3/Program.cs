@@ -11,8 +11,9 @@ using log4net;
 
 namespace ConsoleApp3
 {
-    class Program
+    public class Program
     {
+        Class1 newc = new Class1();
         static void Main(string[] args)
         {
             //Class1 class1 = new Class1();
@@ -37,6 +38,7 @@ namespace ConsoleApp3
             catch (Exception ex)
             {
                 log.Error("Error Message: " + ex.Message.ToString(), ex);
+                //ewc.getTetx(); 
             }
         }
     }

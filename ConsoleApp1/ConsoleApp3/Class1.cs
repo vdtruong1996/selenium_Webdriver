@@ -65,5 +65,11 @@ namespace ConsoleApp3
 
         }
 
+
+        public string getTetx(IWebElement web)
+        {
+            string  asd= "";
+            return asd;
+        }
     }
 }

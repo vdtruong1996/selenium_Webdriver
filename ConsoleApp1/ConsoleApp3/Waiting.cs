@@ -9,7 +9,8 @@ using NUnit.Framework;
 using OpenQA.Selenium.Support.UI;
 using System.Threading;
 using OpenQA.Selenium.Interactions;
-
+using NUnit.Framework.Internal;
+using OpenQA.Selenium.Support;
 
 
 namespace ConsoleApp3
@@ -26,6 +27,7 @@ namespace ConsoleApp3
             driver.Manage().Timeouts().ImplicitWait =  TimeSpan.FromSeconds(10);
 
             //IWebElement WebElement;
+
 
             //By byLocator = By.Id("myElementId");
             //WebElement = driver.FindElement(byLocator);
@@ -44,7 +46,8 @@ namespace ConsoleApp3
 
 
             // Enter the Current Address
-            IWebElement currentAddress = driver.FindElement(By.Id("currentAddress"));
+            IWebElement currentAddress = driver.FindElement(By.Id("currentAddress")) ;
+            //currentAddress
 
             currentAddress.SendKeys("43 School Lane London EC71 9GO");
             Thread.Sleep(2000);
@@ -64,29 +67,36 @@ namespace ConsoleApp3
             action.Build().Perform();
             Thread.Sleep(2000);
 
+
+
             //Press the TAB Key to Switch Focus to Permanent Address
             action.SendKeys(Keys.Tab);
             action.Build().Perform();
             Thread.Sleep(2000);
 
             //Paste the Address in the Permanent Address field using CTRL + V
-            //IWebElement permanentAddress = driver.FindElement(By.Id("permanentAddress"));
-            action.KeyDown(Keys.Control);
-            action.SendKeys("v");
-            //action.KeyUp(Keys.Control);
-            action.Build().Perform();
+            //IWebElement permanentAddress = driver.FindElement(By.Id("permanentAddress")); permanentAddress.SendKeys("v");
+            action.KeyDown(Keys.Control).SendKeys("v").KeyUp(Keys.Control).Build().Perform();
+           
+            //IWebElement permanentAddress = driver.FindElement(By.Id("permanentAddress")); 
+            //Boolean bol = driver.FindElement(By.Id("permanentAddress"));
             Thread.Sleep(2000);
+
+            //Action mouseOverHome = builder.moveToElement(link_Home).build();
 
             ////Compare Text of current Address and Permanent Address
             IWebElement permanentAddress = driver.FindElement(By.Id("permanentAddress"));
-            permanentAddress.GetAttribute("value");
-            assertEquals(currentAddress.GetAttribute("value"), permanentAddress.GetAttribute("value"));
+            //permanentAddress.GetAttribute("value");
+            //var a = currentAddress.GetAttribute("value");
+            //var b= permanentAddress.GetAttribute("value");
 
-            if(permanentAddress != null)
+            Assert.AreEqual(currentAddress.GetAttribute("value"), permanentAddress.GetAttribute("value"));
+
+            if ((currentAddress.GetAttribute("value").Equals(permanentAddress.GetAttribute("value"))))
             {
-                Console.Write("case failed: " );
+                Console.Write("case passed: " );
             }
-            else Console.Write("case passed: ");
+            else Console.Write("case failed: ");
 
             driver.Close();
 
@@ -95,9 +105,11 @@ namespace ConsoleApp3
 
         }
 
-        //public void assertEquals(string v1, string v2)
+        //public bool assertEquals(string v1, string v2)
         //{
-        //    throw new NotImplementedException();
+        //    if (v1.Equals(v2))
+        //        return true;
+        //    return false;
         //}
     }
 }
