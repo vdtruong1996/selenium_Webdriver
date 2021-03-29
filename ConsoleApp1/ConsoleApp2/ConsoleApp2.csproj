@@ -75,6 +75,7 @@
     <Compile Include="Class2.cs" />
     <Compile Include="Click_on_image.cs" />
     <Compile Include="CSS.cs" />
+    <Compile Include="Multiple Window.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Prompt_Alerts.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
